@@ -33,17 +33,16 @@ _vinharia-agnello_/
 
 -style.css: folha de estilos utilizado no index.html;
 
--script.js: script que utiliza `prompt()`, `alert()` e `console.log()`, além de funções (`function`), estruturas de repetição (`while`) e estruturas condicionais (`if` e `else`). O código respeita o escopo das variáveis, onde sua finalidade é realizar o cadastro, a validação, a manipulação e a apresentação de informações sobre os vinhos;
+-script.js: script que utiliza `prompt()`, `alert()` e `console.log()`, além de funções (`function`), estruturas de repetição (`while`), estruturas condicionais (`if` e `else`), manipulação de `objetos` e `arrays`, e a utilização de funções de alta ordem (`.push`, `.forEach`, `.filter`, `.reduce`). O código respeita o escopo das variáveis, onde sua finalidade é realizar o cadastro, a validação, a manipulação e a apresentação de informações sobre os vinhos;
 
 # Integrantes:
 
 - Vinicius Pereira Sabino
-- Aline da Silva Correia
 
 # Link do projeto publicado:
 
-- GitHub Pages: https://vinas696.github.io/vinheria-agnello-checkpoint02/
-- Repositório: https://github.com/Vinas696/vinheria-agnello-checkpoint02.git
+- GitHub Pages: 
+- Repositório: 
 
 # Informações adicionais que eu encontrei em outras fontes:
 - coddy: https://coddy.tech/pt
